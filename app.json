@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "note_app",
-    "slug": "note_app",
+    "slug": "note-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0d36124a-aa75-4816-ba06-721853409b50"
+      }
+    },
+    "owner": "olabanji121"
   }
 }

@@ -1,0 +1,21 @@
+{
+  "clients": [
+    { "id": "0", "name": "Select Client" },
+    { "id": "1", "name": "John Doe" },
+    { "id": "2", "name": "Jane Smith" },
+    { "id": "3", "name": "Michael Johnson" },
+    { "id": "4", "name": "Emily Davis" },
+    { "id": "5", "name": "David Martinez" },
+    { "id": "6", "name": "Sarah Brown" },
+    { "id": "7", "name": "Daniel Garcia" },
+    { "id": "8", "name": "Laura Wilson" },
+    { "id": "9", "name": "James Taylor" },
+    { "id": "10", "name": "Emma Moore" }
+  ],
+  "categories": [
+    { "id": "0", "name": "Select Category" },
+    { "id": "goalEvidence", "name": "Goal Evidence" },
+    { "id": "supportCoordination", "name": "Support Coordination" },
+    { "id": "activeDuty", "name": "Active Duty" }
+  ]
+}
